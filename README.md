@@ -12,5 +12,10 @@
 - It has a Student Summary section which shows Minimum marks, Maximum Marks and Average Marks calculated from the list of the records.
 - Once the user edit any single record, it shows a modal with the data to update. Once the new data is saved, the list is updated with the new data. Hence the Student Summary section is also updated with the new record data.
 
+### STUDENT DETAILS LIST
+
 ![Alt text](images/StudentList.png "Title")
+
+### EDIT STUDENT DETAILS
+
 ![Alt text](images/EditStudent.png "Title")
